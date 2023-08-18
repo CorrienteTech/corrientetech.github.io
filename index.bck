@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<title>Corriente Tech</title>
+		
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="lite.css">
+
+<link rel="shortcut icon" href="resources/corriente_tech.png"/>
+
+<body class="" cz-shortcut-listen="true">
+	<div id="wrapper">
+		<div id="main">
+			<!-- Header -->
+			<header id="header">
+			<nav>
+			<ul>
+                        <p2>Corriente Tech</p2>
+                        <br>
+                        <p3>YouTube channel in spanish</p3>
+                        <p>Showing awesome tech with product reviews</p> 	
+                        <p>Helping other users with recommendations</p> 
+							
+			<br>
+
+			<li>
+                        	<a href="http://bit.ly/CorrienteTech2" target="_blank">
+                        		<img src="resources/corriente_tech_yt.png" alt="Youtube channel" height="140" width="140">
+                        	</a>
+			</li>
+						
+			<br>
+                        <p>Dont hesitate to contact me!</p>  
+
+                        <li>
+                        	<a href="http://www.instagram.com/CorrienteTech" target="_blank">
+                        		<img src="resources/instagram.png" alt="Instagram" height="40" width="40">
+                        	</a>
+                        </li>
+
+                        <li><a href=""><img src="resources/nothing.png" alt="" height="20" width="20"></a></li>
+                        
+                        <li>
+                        	<a href="http://www.twitter.com/CorrienteTech" target="_blank">
+                        		<img src="resources/twitter.png" alt="Twitter" height="40" width="40">
+                        	</a>
+                        </li>
+
+                        <li><a href=""><img src="resources/nothing.png" alt="" height="20" width="20"></a></li>
+						
+                        <li>
+                        	<a href="mailto:corrientetech@gmail.com" target="_blank">
+                        		<img src="resources/gmail.png" alt="Email" height="40" width="40">
+                        	</a>
+                        </li>
+
+			</ul>
+			</nav>
+			</header>
+		</div>
+	</div>
+
+<script>
+	window.onload = function() { document.body.className = ''; }
+	window.ontouchmove = function() { return false; }
+	window.onorientationchange = function() { document.body.scrollTop = 0; }
+</script>
